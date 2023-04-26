@@ -200,6 +200,7 @@ MODELO CONCEITUAL
 
 
 
+![image](https://user-images.githubusercontent.com/94478634/234653714-4edff92b-8896-4e1a-afd5-18113de5a66f.png)
 
 
 
