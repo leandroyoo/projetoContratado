@@ -24,6 +24,10 @@ senha: 12345
 
 
 TELA PRINCIPAL
+
+
+
+
 a tela principal é uma espécie de menu aonde o usuário terá a visualizações de
 CADASTRO DE VENDAS
 CADASTRO DE PRODUTO
@@ -36,6 +40,11 @@ GERADOR DE RELATÓRIO
 
 
 pensei numa interface amigavel e interativa aonde o usuario terá maior facilidade.
+
+
+
+
+
 
 
 
