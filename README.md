@@ -160,12 +160,19 @@ A modelagem do banco de dados foi utilizada o modelo relacional para melhor visu
 MODELO LOGICO
 
 
+![image](https://user-images.githubusercontent.com/94478634/234643570-b900fbe9-832b-4013-9789-29215ac55f78.png)
+
+
+
+aqui podemos ter uma visão melhor do banco e de sua relação das tabelas!
+
+
+----------------------
 
 
 
 
-
-
+-------------------------
 
 
 
@@ -181,6 +188,22 @@ MODELO LOGICO
 
 
 MODELO CONCEITUAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
