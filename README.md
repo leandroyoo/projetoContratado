@@ -23,7 +23,7 @@ senha: 12345
 
 
 
-----------------------------
+-------------------------------
 
 
 
@@ -61,6 +61,15 @@ pensei numa interface amigavel e interativa aonde o usuario terá maior facilida
 
 
 
+-------------------------------
+
+
+
+
+
+
+
+-------------------------------
 
 
 
@@ -80,6 +89,22 @@ TELA CADASTRO DE VENDAS
 
 
 a tela cadastro  de vendas é aonde o usuário cadastrará os produtos vendidos e poderá vizualizar o histório de vendas
+
+
+
+
+
+-------------------------------
+
+
+
+
+
+
+
+-------------------------------
+
+
 
 
 
@@ -117,6 +142,15 @@ TELA DE RELATORIO
 EM DESENVOLVIMENTO
 
 
+-------------------------------
+
+
+
+
+
+
+
+-------------------------------
 
 
 
@@ -170,14 +204,82 @@ MODELAGEM NO SQL SERVER
 
 procedimento para fazer o retorno para aplicação como alguns selects que fazem o retorno para o DBGrid
 
+
+
+
+
+-------------------------------
+
+
+
+
+
+
+
+-------------------------------
+
+
+
+
+
+
+
+
+
+
 RETORNO DE VENDAS 
 
 ![image](https://user-images.githubusercontent.com/94478634/234637423-649a1217-e197-499e-8c18-6fa192c76614.png)
 
 
+
+
+
+
+
+-------------------------------
+
+
+
+
+
+
+
+-------------------------------
+
+
+
+
+
+
+
+
 RETORNO DE PRODUTOS
 
 ![image](https://user-images.githubusercontent.com/94478634/234637916-f2ec5a1c-ce28-4936-b4e1-e2fc07571501.png)
+
+
+
+
+
+-------------------------------
+
+
+
+
+
+
+
+-------------------------------
+
+
+
+
+
+
+
+
+
 
 
 RETORNO DE CLIENTES
