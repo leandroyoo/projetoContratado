@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/24 20:21:53.000.622,=C:\Users\leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/25 21:20:29.000.744,=C:\Users\leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/25 23:01:52.000.705,=C:\Users\leandro\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/04/25 23:02:08.000.777,=C:\Users\leandro\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/04/25 23:03:04.000.561,C:\Users\leandro\Desktop\projetoContratado\uPrincipal.pas=C:\Users\leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/25 23:03:04.000.561,C:\Users\leandro\Desktop\projetoContratado\uPrincipal.dfm=C:\Users\leandro\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/04/25 23:03:09.000.749,C:\Users\leandro\Desktop\projetoContratado\uDataModule.dfm=C:\Users\leandro\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/04/25 23:03:09.000.749,C:\Users\leandro\Desktop\projetoContratado\uDataModule.pas=C:\Users\leandro\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/04/25 23:03:16.000.297,C:\Users\leandro\Desktop\projetoContratado\projetoContratado.dproj=C:\Users\leandro\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/04/25 23:34:37.000.547,=C:\Users\leandro\Desktop\projetoContratado\Unit2.pas</Transaction>
+    <Transaction>2023/04/25 23:34:53.000.789,C:\Users\leandro\Desktop\projetoContratado\Unit2.pas=C:\Users\leandro\Desktop\projetoContratado\uCadCliente.pas</Transaction>
+    <Transaction>2023/04/25 23:34:53.000.789,C:\Users\leandro\Desktop\projetoContratado\Unit2.dfm=C:\Users\leandro\Desktop\projetoContratado\uCadCliente.dfm</Transaction>
+    <Transaction>2023/04/26 02:12:32.000.316,=C:\Users\leandro\Desktop\projetoContratado\Unit2.pas</Transaction>
+    <Transaction>2023/04/26 02:17:04.000.373,C:\Users\leandro\Desktop\projetoContratado\uCadProduto.dfm=C:\Users\leandro\Desktop\projetoContratado\Unit2.dfm</Transaction>
+    <Transaction>2023/04/26 02:17:04.000.373,C:\Users\leandro\Desktop\projetoContratado\uCadProduto.pas=C:\Users\leandro\Desktop\projetoContratado\Unit2.pas</Transaction>
+    <Transaction>2023/04/26 08:18:43.000.809,=C:\Users\leandro\Desktop\projetoContratado\Unit1.pas</Transaction>
+    <Transaction>2023/04/26 09:16:53.000.674,C:\Users\leandro\Desktop\projetoContratado\Unit1.pas=C:\Users\leandro\Desktop\projetoContratado\uCadVendas.pas</Transaction>
+    <Transaction>2023/04/26 09:16:53.000.674,C:\Users\leandro\Desktop\projetoContratado\Unit1.dfm=C:\Users\leandro\Desktop\projetoContratado\uCadVendas.dfm</Transaction>
+    <Transaction>2023/04/26 11:42:15.000.453,=C:\Users\leandro\Desktop\projetoContratado\Unit1.pas</Transaction>
+    <Transaction>2023/04/26 11:54:14.000.550,C:\Users\leandro\Desktop\projetoContratado\uLogin.pas=C:\Users\leandro\Desktop\projetoContratado\Unit1.pas</Transaction>
+    <Transaction>2023/04/26 11:54:14.000.550,C:\Users\leandro\Desktop\projetoContratado\uLogin.dfm=C:\Users\leandro\Desktop\projetoContratado\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
